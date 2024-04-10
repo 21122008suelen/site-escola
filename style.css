@@ -22,11 +22,14 @@
        font-size: 24px; 
  }
 
- .escola-imagem{
+  .escola-imagem{
       width: 25%;
-
  }
+  .escola{
 
+      background-image:-o-linear-gradient(#383D58,) ;
+  
+      }
 
  
   
